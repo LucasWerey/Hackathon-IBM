@@ -24,6 +24,7 @@ You will need to create .env file and add inside your API_KEY
 You can generate the api key from here : https://cloud.ibm.com/catalog/services/speech-to-text
 
 ```bash
+cd ServerSide
 touch .env
 ```
 
