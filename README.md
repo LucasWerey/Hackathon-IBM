@@ -3,7 +3,7 @@
 ![IBM Cloud Badge](https://img.shields.io/badge/IBM%20Cloud-1261FE?logo=ibmcloud&logoColor=fff&style=flat)
 ![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat)
 
-> The purpose of this repositor is to create a tool to transcribe audio files using IBM IA.
+> The purpose of this repository is to create a tool to transcribe audio files using IBM IA.
 
 > TODO : Summarize the transcription 
 
